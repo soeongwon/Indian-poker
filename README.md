@@ -6,8 +6,8 @@
 
 ## prerequisites
 
-*Node.js
-*React.js
+* Node.js
+* React.js
 
 ## installation
 
